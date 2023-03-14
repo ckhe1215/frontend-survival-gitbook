@@ -7,3 +7,5 @@
   - [3. React](week1/3.react.md)
   - [4. Testing Library](week1/4.testing-library.md)
   - [5. Parcel & ESLint](week1/5.parcel-and-eslint.md)
+- [2주차](week2/README.md)
+  - [1. JSX](week2/1.jsx.md)
