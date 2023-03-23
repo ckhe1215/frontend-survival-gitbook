@@ -9,3 +9,6 @@
   - [5. Parcel & ESLint](week1/5.parcel-and-eslint.md)
 - [2주차](week2/README.md)
   - [1. JSX](week2/1.jsx.md)
+- [3주차](week3/README.md)
+  - [1. React Component](week3/1.component.md)
+  - [2. React State](week3/1.state.md)
