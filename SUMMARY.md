@@ -12,3 +12,6 @@
 - [3주차](week3/README.md)
   - [1. React Component](week3/1.component.md)
   - [2. React State](week3/2.state.md)
+- [4주차](wee4/README.md)
+  - [1. Express](week4/1.express.md)
+  - [2. Fetch API & CORS](week4/2.fetch-api-cors.md)
