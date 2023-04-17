@@ -28,3 +28,8 @@
   - [2. Tsyringe](week6/2.TSyringe.md)
   - [3. Redux 따라하기](week6/3.redux.md)
   - [4. usestore-ts](week6/4.usestore-ts.md)
+- [7주차](week7/README.md)
+  - [1. Routing](week7/1.routing.md)
+  - [2. Routes](week7/2.routes.md)
+  - [3. Router](week7/3.router.md)
+  - [4. Navigation](week7/4.navigation.md)
